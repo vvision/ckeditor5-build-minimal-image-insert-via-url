@@ -1,4 +1,4 @@
-# ckeditor5-buid-minimal-image-insert-via-url
+# ckeditor5-build-minimal-image-insert-via-url
 
 A minimal build to show how to integrate image insertion via url only in a custom ckeditor5 build.
 
