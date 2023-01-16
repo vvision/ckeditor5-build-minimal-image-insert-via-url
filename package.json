@@ -61,7 +61,7 @@
   "bugs": "https://github.com/vvision/ckeditor5-buid-minimal-image-insert-via-url/issues",
   "repository": {
     "type": "git",
-    "url": "https://github.com/vvision/ckeditor5-buid-minimal-image-insert-via-url.git",
+    "url": "https://github.com/vvision/ckeditor5-buid-minimal-image-insert-via-url.git"
   },
   "scripts": {
     "build": "webpack --mode production",
